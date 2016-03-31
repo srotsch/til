@@ -4,3 +4,6 @@ A growing collection of things I learned while working together with the awesome
 
 ### Git
 * [Render a simple list of all changes committed to a Git repository since the last tag](git/changelog_from_history.md)
+
+### PHPUnit
+* [Assert that an exception is not thrown in a PHPUnit test](phpunit/assert-exception-not-thrown.md)
