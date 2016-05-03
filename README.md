@@ -7,3 +7,4 @@ A growing collection of things I learned while working together with the awesome
 
 ### PHPUnit
 * [Assert that an exception is not thrown in a PHPUnit test](phpunit/assert-exception-not-thrown.md)
+* [Testing traits with protected methods in PHPUnit](phpunit/traits-with-protected-methods.md)
